@@ -40,3 +40,6 @@ Route::get('/manufaktur/create-product-sold', function () {
 Route::get('/manufaktur/create-product-purchased', function () {
     return view('manufaktur/create-product-purchased');
 });
+
+
+// GONDRONG GANTENG
