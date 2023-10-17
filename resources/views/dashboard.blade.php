@@ -5,5 +5,6 @@
 @section('pageSubTitle', '')
 
 @section('content')
-    <h1>Selamat Datang Gondrong</h1>
+    <h1>Selamat Datang GONDRONG ARYA
+    </h1>
 @endsection
